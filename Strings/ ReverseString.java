@@ -10,7 +10,7 @@ class ReverseString
 			for(int i=str.length()-1;i>=0;i--)
 				rev= rev + str.charAt(i);
 			{
-					System.out.println("Reverse:"+rev+'\n'+ str.charAt(int ch));
+					System.out.println("Reverse:"+rev);
 			}
 		//System.out.println("String Name:"+str.toUpperCase()+ '\t'+"String length:"+Length);//
 		
